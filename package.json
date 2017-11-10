@@ -1,0 +1,29 @@
+{ "name": "My-paint-toni",
+  "version": "1.0.0",
+  "description": "my paint soket-io node module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toni-codeur/Alpha-mypaint-node-module-js.git"
+  },
+  "main": "lib/*",
+   "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "Toni",
+  "bin": { "sleep-sort": "./bin/sleep-sort" },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toni-codeur/Alpha-mypaint-node-module-js/issues"
+  },
+  "homepage": "https://github.com/Toni-codeur/Alpha-mypaint-node-module-js#readme",
+    "devDependencies": {
+   "express": "~3.3.4",
+    "socket.io": "~1.2.1",
+    "ent": "~0.1.0",
+   "mocha": "",
+   "should": ""
+ }
+}
