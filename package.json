@@ -9,9 +9,6 @@
     "url": "git+https://github.com/Toni-codeur/Alpha-mypaint-node-module-js.git"
   },
   "main": "lib/*",
-   "scripts": {
-    "test": "mocha test/*.js"
-  },
   "author": "Toni",
   "bin": { "sleep-sort": "./bin/sleep-sort" },
   "license": "ISC",
