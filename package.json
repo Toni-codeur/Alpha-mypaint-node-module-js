@@ -10,7 +10,6 @@
   },
   "main": "lib/*",
   "author": "Toni",
-  "bin": { "sleep-sort": "./bin/sleep-sort" },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Toni-codeur/Alpha-mypaint-node-module-js/issues"
