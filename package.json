@@ -11,6 +11,9 @@
     "url": "git+https://github.com/Toni-codeur/Alpha-mypaint-node-module-js.git"
   },
   "main": "lib/main.js",
+   "scripts": {
+    "test": "mocha test/*.js"
+  },
   "author": "toni",
   "license": "ISC",
   "bugs": {
@@ -18,7 +21,6 @@
   },
   "homepage": "https://github.com/Toni-codeur/Alpha-mypaint-node-module-js#readme",
     "devDependencies": {
-   // Use any version
    "mocha": "",
    "should": ""
  }
